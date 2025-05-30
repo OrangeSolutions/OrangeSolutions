@@ -9,10 +9,10 @@ so I love being in the recording studio to experiment and understand the DSP and
 ---
 
 ## Skills
-Technologies:  C++, CMake, Javascript, Python, JUCE, Tracktion_Engine, Max-MSP, PureData
-        Daws:  Pro Tools, Cubase, Ableton, Studio One, Luna, Reaper
-Music Notation SW:  Sibelius, MuseScore
-Video Editing SW:  DaVinci Resolve, Adobe Premiere Pro
+* Technologies:  C++, CMake, Javascript, Python, JUCE, Tracktion_Engine, Max-MSP, PureData
+* Daws:  Pro Tools, Cubase, Ableton, Studio One, Luna, Reaper
+* Music Notation SW:  Sibelius, MuseScore
+* Video Editing SW:  DaVinci Resolve, Adobe Premiere Pro
 
 <!--
 **OrangeSolutions/OrangeSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
