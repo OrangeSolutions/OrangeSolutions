@@ -1,10 +1,16 @@
 ## Hi there 👋
 
+---
 ## About me
 I'm a musician and a sound engineer, with passion for coding.
 
-## Skills
+---
 
+## Skills
+Technologies:  C++, CMake, Javascript, Python, JUCE, Tracktion_Engine, Max-MSP, PureData
+        Daws:  Pro Tools, Cubase, Ableton, Studio One, Luna, Reaper
+Music Notation SW:  Sibelius, MuseScore
+Video Editing SW:  DaVinci Resolve, Adobe Premiere Pro
 
 <!--
 **OrangeSolutions/OrangeSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
