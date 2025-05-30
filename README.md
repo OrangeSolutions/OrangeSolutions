@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## About me
+I'm a musician and a sound engineer, with passion for coding.
+
+## Skills
+
+
 <!--
 **OrangeSolutions/OrangeSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
