@@ -2,7 +2,9 @@
 
 ---
 ## About me
-I'm a musician and a sound engineer, with passion for coding.
+I'm a musician and a sound engineer, with a passion for computer science and programming. 
+I take care of studying sound events and their nature, 
+so I love being in the recording studio to experiment and understand the DSP and the audio signal flow.
 
 ---
 
